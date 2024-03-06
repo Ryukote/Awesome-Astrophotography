@@ -10,11 +10,6 @@
 
 - [StarXTerminator](https://www.rc-astro.com/software/sxt/)
 
-### Background extraction
-------------------------
-
-- [Graxpert](https://www.graxpert.com/)
-
 ### Noise reduction
 ------------------
 
